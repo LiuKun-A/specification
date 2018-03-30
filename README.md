@@ -1,3 +1,6 @@
-# My Awesome Book
+# 简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+以下规范的作用：
+
+1. 为新人提供快速融入开发团队提供指导作用
+2. 为整个团队的开发、设计提供参考
